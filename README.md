@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./Screenshot 2023-02-15 153741.png)
+![Screenshot](./images/Screenshot%202023-02-15%20153741.png)
 
 ## My process
 
