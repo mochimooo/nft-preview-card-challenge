@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [How to change the color of horizontal line (<hr> element) using CSS ?](https://www.geeksforgeeks.org/how-to-change-the-color-of-horizontal-line-hr-element-using-css/) - This website describes how to change the style of the <hr> tag.
+- [How to change the color of horizontal line ("hr" element) using CSS ?](https://www.geeksforgeeks.org/how-to-change-the-color-of-horizontal-line-hr-element-using-css/) - This website describes how to change the style of the "hr" tag.
 
 - [CSS3 Border-Radius & Rounded Avatars](https://trentwalton.com/2010/08/03/css3-border-radius-rounded-avatars/) - This article I found helped me identify how to resize and add the white border to the creater profile image.
 
