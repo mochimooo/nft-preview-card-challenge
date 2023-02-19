@@ -9,6 +9,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Screenshot](#screenshot)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
 
   ## Overview
 
@@ -30,3 +31,14 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+### Useful resources
+
+- [How to change the color of horizontal line (<hr> element) using CSS ?](https://www.geeksforgeeks.org/how-to-change-the-color-of-horizontal-line-hr-element-using-css/) - This website describes how to change the style of the <hr> tag.
+
+- [CSS3 Border-Radius & Rounded Avatars](https://trentwalton.com/2010/08/03/css3-border-radius-rounded-avatars/) - This article I found helped me identify how to resize and add the white border to the creater profile image.
+
+- [How TO - Image Overlay Icon](https://www.w3schools.com/howto/howto_css_image_overlay_icon.asp) - This is a good reference for how to overlay an image on another. In this challenge, it's the key to make the hover effect show the "eye" icon with a cyan background.
+
+- [CSS Combinators](https://www.w3schools.com/css/css_combinators.asp) - This page has good explanation and summary of CSS combinators.
+
